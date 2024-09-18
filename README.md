@@ -1,9 +1,3 @@
-# ManjitSingh2003.github.io
-
----
-layout: default
----
-
 # Data Science Portfolio
 
 
