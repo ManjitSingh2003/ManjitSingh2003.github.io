@@ -1,7 +1,9 @@
 title: <p align="center"> Manjit Singh </p>
+#logo: /assets/img/picture.png
 
 description:
   <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
   <a href="www.linkedin.com/in/manjitsinghindia/">LinkedIn</a> |
   <a href="https://github.com/ManjitSingh2003">GitHub</a>
   
@@ -13,4 +15,5 @@ description:
   <br>
   </p>
 
+show_downloads: True
 theme: jekyll-theme-hacker
