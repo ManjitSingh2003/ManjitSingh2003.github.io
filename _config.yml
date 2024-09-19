@@ -1,4 +1,5 @@
-title: "<p align=\"center\">Manjit Singh</p>"
+title: |
+  <h1 style="text-align: center;">Manjit Singh</h1>
 # logo: /assets/img/picture.png
 
 description: |
@@ -16,5 +17,7 @@ description: |
   <a href="https://www.linkedin.com/in/manjitsinghindia/">LinkedIn</a> |
   <a href="https://github.com/ManjitSingh2003">GitHub</a>
   </p>
+
 theme: jekyll-theme-hacker
+
 
