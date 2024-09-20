@@ -37,6 +37,20 @@ Explore LLM customization using the Ollama framework and efficient local inferen
 # Academic Projects
 
 
+## Telecom Churn Prediction
+
+This project focuses on predicting customer churn in the telecom industry using advanced machine learning techniques. By analyzing customer behavior, demographics, and service usage patterns, the model identifies potential churners and provides actionable insights to help telecom businesses reduce customer attrition. The project highlights data preprocessing, feature engineering, and the use of classification algorithms like logistic regression, decision trees, and random forests to optimize predictive performance.
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ManjitSingh2003/Telecom-Churn-Prediction)
+
+
+## Lead Scoring Analysis and Optimization
+
+This project focuses on the analysis and optimization of lead scoring using data science techniques. By evaluating key features of customer behavior and interaction, the model assigns scores to leads, enabling businesses to prioritize their outreach efforts effectively. The insights from this project help in improving conversion rates and streamlining marketing strategies through data-driven decision-making.
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ManjitSingh2003/Lead-Scoring)
+
+
 ## Credit EDA Analysis and Insights
 
 This project explores credit data using exploratory data analysis (EDA) techniques to uncover patterns and trends related to credit behavior. The analysis provides insights into customer creditworthiness, default risk factors, and other credit-related metrics. This work is critical for financial institutions to enhance decision-making, reduce default rates, and improve credit risk assessment models.
@@ -56,18 +70,3 @@ This project explores the RSVP Movies dataset using SQL queries to derive meanin
 This project applies linear regression to analyze and predict bike-sharing demand based on various environmental and seasonal factors. Using historical data, key insights are drawn to help bike-sharing services optimize their operations, anticipate user demand, and enhance resource allocation. The project demonstrates how predictive modeling can improve business decision-making in the transportation sector by forecasting future demand accurately.
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ManjitSingh2003/bike-sharing-linear-regression)
-
-
-## Lead Scoring Analysis and Optimization
-
-This project focuses on the analysis and optimization of lead scoring using data science techniques. By evaluating key features of customer behavior and interaction, the model assigns scores to leads, enabling businesses to prioritize their outreach efforts effectively. The insights from this project help in improving conversion rates and streamlining marketing strategies through data-driven decision-making.
-
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ManjitSingh2003/Lead-Scoring)
-
-
-## Telecom Churn Prediction
-
-This project focuses on predicting customer churn in the telecom industry using advanced machine learning techniques. By analyzing customer behavior, demographics, and service usage patterns, the model identifies potential churners and provides actionable insights to help telecom businesses reduce customer attrition. The project highlights data preprocessing, feature engineering, and the use of classification algorithms like logistic regression, decision trees, and random forests to optimize predictive performance.
-
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ManjitSingh2003/Telecom-Churn-Prediction)
-
