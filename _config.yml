@@ -1,5 +1,4 @@
-title: |
-  <h1 style="text-align: center;">Manjit Singh</h1>
+title: "<p align=\"center\">Manjit Singh</p>"
 # logo: /assets/img/picture.png
 
 description: |
@@ -8,8 +7,6 @@ description: |
   <strong>About Me</strong>
   <br><br>
   I'm Manjit, a postgraduate student in Data Science and AI specializing in NLP at IIIT Bangalore. I have experience in Machine Learning, Data Analytics, and AI, with expertise in Python, Deep Learning, and NLP using frameworks like TensorFlow and PyTorch.
-  <br><br>
-  Previously, I worked at Quest Global Technologies Ltd, where I contributed to Business Analysis, Market Research, and Database Management. I'm passionate about using data-driven insights to solve complex problems and drive impactful results.
   <br><br>
   Feel free to reach out at <a href="mailto:itsmanjit20@gmail.com">itsmanjit20@gmail.com</a> for opportunities or inquiries!
   <br><br>
