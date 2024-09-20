@@ -1,9 +1,9 @@
 # Data Science Portfolio
 
 
-### **Education**
+### Education
 
-**Post Graduate Diploma in Data Science & AI**  
+**Executive Post Graduate Program in Data Science & AI**  
 *IIIT Bangalore*  
 *Oct '23 – Jan '25*
 
@@ -11,7 +11,7 @@
 *Gauhati University*  
 *Jul '20 – Jun '23*
 
-### **Work Experience**
+### Work Experience
 
 **Business Analyst**  
 *Quest Global Technologies Ltd*  
