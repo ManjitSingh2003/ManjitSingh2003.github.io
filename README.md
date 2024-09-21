@@ -18,18 +18,17 @@
 **Business Analyst**  
 *Quest Global Technologies Ltd*  
 *Feb '24 – May '24*  
-- Developed metrics, reports, and dashboards that enhanced data-driven decision-making by 20%.  
-- Achieved a 15% increase in conversion rates through A/B testing analysis.  
-- Improved operational efficiency by 10% through strategic analysis and support.  
-- Leveraged blockchain and cryptocurrency trends, resulting in a 15% ROI increase on related initiatives.
+-  Increased operational efficiency by 10% through data analysis and recommendations.
+-  Enhanced cross-team communication by 20% through effective collaboration with sales, marketing, and product teams.
+-  Improved KPI monitoring efficiency by 20% using detailed dashboards and reports.
+
 
 **Business Analyst Intern**  
 *Quest Global Technologies Ltd*  
 *Nov '23 – Feb '24*  
-- Led strategic A/B testing, increasing conversion rates by 20%.  
-- Conducted market research that identified 5 new business opportunities in the GCC region.  
-- Integrated cryptocurrency and blockchain insights into business strategies, boosting ROI by 15%.
-
+-  Improved conversion rates by 12% through strategic data analysis and A/B testing.
+-  Identified 5 new business opportunities in the GCC region by analyzing market trends.
+-  Boosted ROI by 15% through the integration of blockchain and cryptocurrency insights.
 
 ## Key Projects
 
