@@ -1,6 +1,6 @@
 # Manjit Singh
 
-# Data Science Portfolio
+## Data Science Portfolio
 
 
 ## Education
