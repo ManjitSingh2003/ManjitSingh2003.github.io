@@ -86,6 +86,13 @@ Explore LLM customization using the Ollama framework and efficient local inferen
 ## Academic Projects
 
 
+### Automatic Ticket Classification
+
+This project aims to automate the classification of customer complaints for a financial company using advanced Natural Language Processing (NLP) and machine learning techniques. By analyzing unstructured text data from customer complaints, the project identifies key topics and categorizes complaints based on relevant products and services such as credit cards, mortgages, and bank account services. This solution reduces manual effort, enhances efficiency, and provides valuable insights for improving customer service. The project demonstrates expertise in text preprocessing, feature extraction using TF-IDF, topic modeling with Non-Negative Matrix Factorization (NMF), and building supervised models like logistic regression and random forests to achieve optimal classification performance.
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ManjitSingh2003/automatic_ticket_classification)
+
+
 ### Telecom Churn Prediction
 
 This project focuses on predicting customer churn in the telecom industry using advanced machine learning techniques. By analyzing customer behavior, demographics, and service usage patterns, the model identifies potential churners and provides actionable insights to help telecom businesses reduce customer attrition. The project highlights data preprocessing, feature engineering, and the use of classification algorithms like logistic regression, decision trees, and random forests to optimize predictive performance.
