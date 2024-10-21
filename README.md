@@ -64,20 +64,6 @@ This project focuses on segmenting customers using K-Means and Hierarchical Clus
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ManjitSingh2003/customer-segmentation-clustering)
 
 
-### LangChain Chatbot Demo
-
-This project showcases a conversational AI chatbot built using the LangChain framework. It leverages advanced language models to provide personalized responses, manage chat history, and stream dynamic interactions. Designed to improve user engagement in real-time, the chatbot can remember previous conversations, recall user information, and provide accurate, context-driven responses across sessions.
-
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ManjitSingh2003/langchain-chatbot-demo)
-
-
-### LLM Customization and GGUF Import
-
-Explore LLM customization using the Ollama framework and efficient local inference with GGUF models. Customize model behavior, optimize performance, and compare responses to enhance model deployment. Includes practical examples, detailed comparisons, and insights into model fine-tuning and quantization techniques.
-
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ManjitSingh2003/Llama3-GGUF-Customization-Ollama)
-
-
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
