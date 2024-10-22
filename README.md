@@ -29,17 +29,18 @@
 **Business Analyst**  
 *Quest Global Technologies Ltd*  
 *Feb '24 – May '24*  
--  Increased operational efficiency by 10% through data analysis and recommendations.
--  Enhanced cross-team communication by 20% through effective collaboration with sales, marketing, and product teams.
--  Improved KPI monitoring efficiency by 20% using detailed dashboards and reports.
-
+-  Increased operational efficiency by 10% by building automated dashboards using Power BI and SQL for real-time stakeholder insights.
+-  Conducted A/B testing on sales and marketing strategies, resulting in a 12% improvement in conversion rates.
+-  Designed predictive models that forecasted customer behavior in collaboration with product and marketing teams to optimize engagement strategies.
+-  Created custom KPI visualizations, improving monitoring efficiency by 20% through automated reporting pipelines.
 
 **Business Analyst Intern**  
 *Quest Global Technologies Ltd*  
 *Nov '23 – Feb '24*  
--  Improved conversion rates by 12% through strategic data analysis and A/B testing.
--  Identified 5 new business opportunities in the GCC region by analyzing market trends.
--  Boosted ROI by 15% through the integration of blockchain and cryptocurrency insights.
+-  Identified 5 new business opportunities in the GCC region by analyzing market trends and generating insights from publicly available datasets.
+-  Improved return on investment (ROI) by 15% by developing data-driven recommendations using exploratory data analysis (EDA).
+-  Utilized data-driven tools to conduct segmentation analysis, resulting in a 15% boost in conversion rates for targeted high-value customers.
+-  Enhanced data quality through data cleaning and preparation, fostering robust data pipelines, resulting in a 10% efficiency gain.
 
 
   
