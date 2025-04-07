@@ -111,6 +111,24 @@ Implemented a robust **unsupervised learning pipeline** to segment customers bas
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ManjitSingh2003/customer-segmentation-clustering)
 
 
+### 🎬 RSVP Movies Analysis – SQL-Based Data Exploration  
+**Tech Stack:** MySQL, SQL Joins, Aggregations, Subqueries  
+
+Performed a comprehensive **SQL analysis on the RSVP Movies dataset** to derive actionable insights into movie performance, viewer behavior, and content trends.
+
+- **Objective:** Analyze a real-world movie dataset to uncover trends related to movie views, genres, languages, platforms, and user engagement.  
+- **Approach:**  
+   - Wrote optimized **SQL queries** to explore viewer demographics, most-watched genres/languages, and regional popularity.  
+   - Used **joins, window functions, subqueries**, and aggregations to extract multi-dimensional insights across different entity tables.  
+   - Investigated **monthly trends** in user ratings and view counts to identify periods of peak engagement.  
+   - Segmented data by **platform and genre** to assist content curation decisions for OTT platforms.  
+   - Delivered conclusions in a structured manner for use in dashboards or further analysis.
+
+✅ **Impact:** Enabled data-driven decisions for movie curation, marketing strategies, and platform-specific content optimization through insightful SQL reporting.
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ManjitSingh2003/RSVP_Movies_SQL_Analysis)
+
+
 ### 📉 Telecom Churn Prediction  
 **Tech Stack:** Python, Scikit-learn, Pandas, Seaborn, Matplotlib  
 
@@ -199,21 +217,3 @@ Built a linear regression model to **predict bike rental demand** based on histo
 ✅ **Impact:** Provided an interpretable model that helps stakeholders anticipate rental demand and make informed operational decisions such as fleet planning and staff allocation.
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ManjitSingh2003/bike-sharing-linear-regression)
-
-
-### 🎬 RSVP Movies Analysis – SQL-Based Data Exploration  
-**Tech Stack:** MySQL, SQL Joins, Aggregations, Subqueries  
-
-Performed a comprehensive **SQL analysis on the RSVP Movies dataset** to derive actionable insights into movie performance, viewer behavior, and content trends.
-
-- **Objective:** Analyze a real-world movie dataset to uncover trends related to movie views, genres, languages, platforms, and user engagement.  
-- **Approach:**  
-   - Wrote optimized **SQL queries** to explore viewer demographics, most-watched genres/languages, and regional popularity.  
-   - Used **joins, window functions, subqueries**, and aggregations to extract multi-dimensional insights across different entity tables.  
-   - Investigated **monthly trends** in user ratings and view counts to identify periods of peak engagement.  
-   - Segmented data by **platform and genre** to assist content curation decisions for OTT platforms.  
-   - Delivered conclusions in a structured manner for use in dashboards or further analysis.
-
-✅ **Impact:** Enabled data-driven decisions for movie curation, marketing strategies, and platform-specific content optimization through insightful SQL reporting.
-
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ManjitSingh2003/RSVP_Movies_SQL_Analysis)
