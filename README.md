@@ -51,11 +51,12 @@
 ## Key Projects
 
 
-### Vehicle EDA Analysis and Optimization
 
-Vehicle data analysis involves using various data science techniques to understand patterns in vehicle behavior, optimize performance, and predict potential issues. Through this project, insights are extracted from vehicle datasets, which help businesses enhance operational efficiency by improving vehicle health, fuel consumption, driver behavior, and more.
+### Automatic Ticket Classification
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ManjitSingh2003/Vehicle_EDA_Analysis)
+This project aims to automate the classification of customer complaints for a financial company using advanced Natural Language Processing (NLP) and machine learning techniques. By analyzing unstructured text data from customer complaints, the project identifies key topics and categorizes complaints based on relevant products and services such as credit cards, mortgages, and bank account services. This solution reduces manual effort, enhances efficiency, and provides valuable insights for improving customer service. The project demonstrates expertise in text preprocessing, feature extraction using TF-IDF, topic modeling with Non-Negative Matrix Factorization (NMF), and building supervised models like logistic regression and random forests to achieve optimal classification performance.
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ManjitSingh2003/automatic_ticket_classification)
 
 
 ### Customer Segmentation using Clustering Techniques
@@ -63,21 +64,6 @@ Vehicle data analysis involves using various data science techniques to understa
 This project focuses on segmenting customers using K-Means and Hierarchical Clustering methods to identify distinct customer groups. By analyzing purchasing behaviors and demographic data, valuable insights are provided to help businesses tailor marketing strategies, improve customer retention, and enhance overall customer experience. The results offer actionable segmentation that aids in optimizing business operations and targeting specific customer needs.
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ManjitSingh2003/customer-segmentation-clustering)
-
-
-
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
-
-## Academic Projects
-
-
-### Automatic Ticket Classification
-
-This project aims to automate the classification of customer complaints for a financial company using advanced Natural Language Processing (NLP) and machine learning techniques. By analyzing unstructured text data from customer complaints, the project identifies key topics and categorizes complaints based on relevant products and services such as credit cards, mortgages, and bank account services. This solution reduces manual effort, enhances efficiency, and provides valuable insights for improving customer service. The project demonstrates expertise in text preprocessing, feature extraction using TF-IDF, topic modeling with Non-Negative Matrix Factorization (NMF), and building supervised models like logistic regression and random forests to achieve optimal classification performance.
-
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ManjitSingh2003/automatic_ticket_classification)
 
 
 ### Telecom Churn Prediction
@@ -92,6 +78,13 @@ This project focuses on predicting customer churn in the telecom industry using 
 This project focuses on the analysis and optimization of lead scoring using data science techniques. By evaluating key features of customer behavior and interaction, the model assigns scores to leads, enabling businesses to prioritize their outreach efforts effectively. The insights from this project help in improving conversion rates and streamlining marketing strategies through data-driven decision-making.
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ManjitSingh2003/Lead-Scoring)
+
+
+### Vehicle EDA Analysis and Optimization
+
+Vehicle data analysis involves using various data science techniques to understand patterns in vehicle behavior, optimize performance, and predict potential issues. Through this project, insights are extracted from vehicle datasets, which help businesses enhance operational efficiency by improving vehicle health, fuel consumption, driver behavior, and more.
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ManjitSingh2003/Vehicle_EDA_Analysis)
 
 
 ### Credit EDA Analysis and Insights
