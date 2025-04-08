@@ -24,16 +24,15 @@
 
 
 
-### 💼 Professional Experience
+### **Professional Experience**
 
 **Business Analyst**  
 **Quest Global Technologies Ltd | Remote | Nov 2023 – May 2024**  
-
-- Led the automation of reporting workflows using Excel, SQL, and visualization tools like PowerBI, enabling real-time tracking of critical KPIs across departments and reducing manual efforts by 10%.  
-- Designed and analyzed A/B test experiments to assess marketing strategies, directly contributing to a 5% increase in campaign conversion rates and improving ROI.  
-- Performed data cleaning, segmentation, and exploratory analysis on customer datasets to uncover patterns, optimize targeting strategies, and support strategic decision-making.  
-- Collaborated with product and sales teams to deliver actionable insights, enhancing business operations and customer engagement.  
-- Documented analytical processes and created reproducible reports and dashboards, improving team efficiency and data transparency.
+- Led the automation of reporting workflows using **Excel**, **SQL**, and visualization tools like **PowerBI**, enabling **real-time KPI tracking** and reducing manual effort by **10%**.  
+- Designed and analyzed **A/B testing strategies** to evaluate marketing effectiveness, resulting in a **5% boost in conversion rates** and improved **ROI**.  
+- Applied **data cleaning**, **segmentation**, and **exploratory analysis** to uncover business patterns and improve **customer targeting**.  
+- Collaborated with **product** and **sales teams** to deliver **data-driven insights**, enhancing operational decision-making and **customer engagement**.  
+- Created **reproducible reports**, dashboards, and **documentation** to support strategic planning and ensure **data transparency** across teams.
 
 
 
@@ -46,11 +45,11 @@
 **Intern**  
 **Samhita | Remote | Nov 2024 – Present**  
 
-- Oversaw the management of financial platforms by regularly processing, cleaning, and validating disbursement and repayment datasets across multiple ongoing projects.  
-- Played a key role in coordinating with finance, product, and operations teams to streamline participant onboarding processes and ensure seamless project execution.  
-- Delivered real-time data dashboards and ad hoc reports for internal stakeholders, facilitating performance tracking and project insights.  
-- Maintained a detailed log of project updates, team meetings, and key decisions, contributing to structured MIS documentation and audit readiness.  
-- Supported impact tracking initiatives through data collection, transformation, and visualization using tools like Excel and Power BI.
+- Managed and updated **financial platforms** by processing and validating **disbursement** and **repayment data**, ensuring **data accuracy** across projects.  
+- Collaborated with **cross-functional teams** for **participant onboarding**, project coordination, and smooth delivery of **real-time data insights**.  
+- Developed and maintained **dashboards** and **ad hoc reports** using tools like **MS Excel** and **Power BI** to support performance monitoring.  
+- Maintained structured documentation of **project activities**, meetings, and updates for effective **MIS reporting** and historical analysis.  
+- Supported **impact tracking initiatives** through **data collection**, transformation, and visualization efforts.
 
 
 
