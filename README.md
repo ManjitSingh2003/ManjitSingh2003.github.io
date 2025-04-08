@@ -24,17 +24,36 @@
 
 
 
-## Work Experience
+### 💼 Professional Experience
 
 **Business Analyst**  
-*Quest Global Technologies Ltd*  
-*Nov '23 – May '24*  
+**Quest Global Technologies Ltd | Remote | Nov 2023 – May 2024**  
+
+- Led the automation of reporting workflows using Excel, SQL, and visualization tools like PowerBI, enabling real-time tracking of critical KPIs across departments and reducing manual efforts by 10%.  
+- Designed and analyzed A/B test experiments to assess marketing strategies, directly contributing to a 5% increase in campaign conversion rates and improving ROI.  
+- Performed data cleaning, segmentation, and exploratory analysis on customer datasets to uncover patterns, optimize targeting strategies, and support strategic decision-making.  
+- Collaborated with product and sales teams to deliver actionable insights, enhancing business operations and customer engagement.  
+- Documented analytical processes and created reproducible reports and dashboards, improving team efficiency and data transparency.
 
 
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-  
+
+### 🧑‍💼 Internships
+
+**Intern**  
+**Samhita | Remote | Nov 2024 – Present**  
+
+- Oversaw the management of financial platforms by regularly processing, cleaning, and validating disbursement and repayment datasets across multiple ongoing projects.  
+- Played a key role in coordinating with finance, product, and operations teams to streamline participant onboarding processes and ensure seamless project execution.  
+- Delivered real-time data dashboards and ad hoc reports for internal stakeholders, facilitating performance tracking and project insights.  
+- Maintained a detailed log of project updates, team meetings, and key decisions, contributing to structured MIS documentation and audit readiness.  
+- Supported impact tracking initiatives through data collection, transformation, and visualization using tools like Excel and Power BI.
+
+
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
@@ -183,6 +202,24 @@ Conducted an **in-depth Exploratory Data Analysis (EDA)** on a vehicle dataset t
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ManjitSingh2003/Vehicle_EDA_Analysis)
 
 
+### 🚴‍♂️ Bike Sharing Demand Prediction – Linear Regression Model  
+**Tech Stack:** Python, Pandas, Seaborn, Matplotlib, Scikit-learn  
+
+Built a linear regression model to **predict bike rental demand** based on historical usage patterns and environmental conditions.
+
+- **Objective:** Analyze factors influencing daily bike rentals and develop a predictive model to estimate rental counts for a bike-sharing service.  
+- **Approach:**  
+   - Conducted **EDA** to understand seasonal trends, weather impact, and user behavior across weekdays vs. weekends.  
+   - Applied **feature engineering** to extract relevant time-based and categorical features (e.g., working day, holiday, temperature bins).  
+   - Built and evaluated a **multiple linear regression model**, interpreting coefficients to assess variable influence.  
+   - Used **R² score, RMSE, and residual plots** to assess model accuracy and refine performance.  
+   - Visualized relationships with scatter plots and heatmaps for better insight into dependencies.
+
+✅ **Impact:** Provided an interpretable model that helps stakeholders anticipate rental demand and make informed operational decisions such as fleet planning and staff allocation.
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ManjitSingh2003/bike-sharing-linear-regression)
+
+
 ### 💳 Credit Data Analysis – Deep Dive into Borrower Behavior  
 **Tech Stack:** Python, Pandas, Seaborn, Matplotlib, Plotly  
 
@@ -200,20 +237,3 @@ Performed a comprehensive **Exploratory Data Analysis (EDA)** on a credit datase
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ManjitSingh2003/Credit-EDA-Analysis)
 
-
-### 🚴‍♂️ Bike Sharing Demand Prediction – Linear Regression Model  
-**Tech Stack:** Python, Pandas, Seaborn, Matplotlib, Scikit-learn  
-
-Built a linear regression model to **predict bike rental demand** based on historical usage patterns and environmental conditions.
-
-- **Objective:** Analyze factors influencing daily bike rentals and develop a predictive model to estimate rental counts for a bike-sharing service.  
-- **Approach:**  
-   - Conducted **EDA** to understand seasonal trends, weather impact, and user behavior across weekdays vs. weekends.  
-   - Applied **feature engineering** to extract relevant time-based and categorical features (e.g., working day, holiday, temperature bins).  
-   - Built and evaluated a **multiple linear regression model**, interpreting coefficients to assess variable influence.  
-   - Used **R² score, RMSE, and residual plots** to assess model accuracy and refine performance.  
-   - Visualized relationships with scatter plots and heatmaps for better insight into dependencies.
-
-✅ **Impact:** Provided an interpretable model that helps stakeholders anticipate rental demand and make informed operational decisions such as fleet planning and staff allocation.
-
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ManjitSingh2003/bike-sharing-linear-regression)
