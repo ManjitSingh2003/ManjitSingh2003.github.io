@@ -40,7 +40,7 @@
 
 
 
-### 🧑‍💼 Internships
+### Internships
 
 **Intern**  
 **Samhita | Remote | Nov 2024 – Present**  
