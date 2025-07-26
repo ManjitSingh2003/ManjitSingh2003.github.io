@@ -36,18 +36,22 @@ At Samhita, I support data-driven decision-making for financial inclusion projec
 🧹 Data Management & Reporting:
    - Maintain and update datasets across Access to Finance initiatives including Pre-Credit Score (PCS), Returnable Grants, and Formal Loans.
    - Consolidate repayment data from various sources and support data cleaning, validation, and standardization.
+     
 
 📊 Dashboarding & Visualization:
    - Assist in building and maintaining dashboards for internal monitoring and external reporting.
    - Support real-time updates and enhancements for evolving project needs.
 
+
 🔍 Data Analysis & Insight Generation:
    - Conduct exploratory data analysis (EDA) to identify trends and anomalies.
    - Extract, transform, and analyze data from SQL databases to inform strategic decisions.
 
+
 ⚙️ Process Automation & GenAI Adoption:
    - Develop automation scripts using Python, SQL, and VBA to streamline recurring data workflows.
    - Contribute to identifying and piloting GenAI use cases to enhance team productivity.
+
 
 🤝 Cross-Team Collaboration:
    - Coordinate with cross-functional teams to respond to data requests and support grant reports, donor updates, and tool development.
