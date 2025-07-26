@@ -26,14 +26,32 @@
 
 ### **Professional Experience**
 
-**Business Analyst**  
-**Quest Global Technologies Ltd | Remote | Nov 2023 – May 2024**  
-- Led the automation of reporting workflows using **Excel**, **SQL**, and visualization tools like **PowerBI**, enabling **real-time KPI tracking** and reducing manual effort by **10%**.  
-- Designed and analyzed **A/B testing strategies** to evaluate marketing effectiveness, resulting in a **5% boost in conversion rates** and improved **ROI**.  
-- Applied **data cleaning**, **segmentation**, and **exploratory analysis** to uncover business patterns and improve **customer targeting**.  
-- Collaborated with **product** and **sales teams** to deliver **data-driven insights**, enhancing operational decision-making and **customer engagement**.  
-- Created **reproducible reports**, dashboards, and **documentation** to support strategic planning and ensure **data transparency** across teams.
+**Associate - Data Analyst**  
+**Samhita | Remote | Nov 2024 – Present** 
 
+At Samhita, I support data-driven decision-making for financial inclusion projects by managing datasets, uncovering insights, and automating processes across multiple programs. I work closely with program, tech, and MEL teams to ensure data flows efficiently from collection to actionable insight.
+
+• Key Responsibilities:
+
+🧹 Data Management & Reporting:
+   - Maintain and update datasets across Access to Finance initiatives including Pre-Credit Score (PCS), Returnable Grants, and Formal Loans.
+   - Consolidate repayment data from various sources and support data cleaning, validation, and standardization.
+
+📊 Dashboarding & Visualization:
+   - Assist in building and maintaining dashboards for internal monitoring and external reporting.
+   - Support real-time updates and enhancements for evolving project needs.
+
+🔍 Data Analysis & Insight Generation:
+   - Conduct exploratory data analysis (EDA) to identify trends and anomalies.
+   - Extract, transform, and analyze data from SQL databases to inform strategic decisions.
+
+⚙️ Process Automation & GenAI Adoption:
+   - Develop automation scripts using Python, SQL, and VBA to streamline recurring data workflows.
+   - Contribute to identifying and piloting GenAI use cases to enhance team productivity.
+
+🤝 Cross-Team Collaboration:
+   - Coordinate with cross-functional teams to respond to data requests and support grant reports, donor updates, and tool development.
+   - Assist in the design of data collection formats and tracking templates for improved monitoring.
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -42,14 +60,15 @@
 
 ### Internships
 
-**Intern**  
-**Samhita | Remote | Nov 2024 – Present**  
+**Business Analyst Intern**  
+**Quest Global Technologies Ltd | Remote | Nov 2023 – May 2024**    
 
-- Managed and updated **financial platforms** by processing and validating **disbursement** and **repayment data**, ensuring **data accuracy** across projects.  
-- Collaborated with **cross-functional teams** for **participant onboarding**, project coordination, and smooth delivery of **real-time data insights**.  
-- Developed and maintained **dashboards** and **ad hoc reports** using tools like **MS Excel** and **Power BI** to support performance monitoring.  
-- Maintained structured documentation of **project activities**, meetings, and updates for effective **MIS reporting** and historical analysis.  
-- Supported **impact tracking initiatives** through **data collection**, transformation, and visualization efforts.
+- Led the automation of reporting workflows using **Excel**, **SQL**, and visualization tools like **PowerBI**, enabling **real-time KPI tracking** and reducing manual effort by **10%**.  
+- Designed and analyzed **A/B testing strategies** to evaluate marketing effectiveness, resulting in a **5% boost in conversion rates** and improved **ROI**.  
+- Applied **data cleaning**, **segmentation**, and **exploratory analysis** to uncover business patterns and improve **customer targeting**.  
+- Collaborated with **product** and **sales teams** to deliver **data-driven insights**, enhancing operational decision-making and **customer engagement**.  
+- Created **reproducible reports**, dashboards, and **documentation** to support strategic planning and ensure **data transparency** across teams.
+
 
 
 
