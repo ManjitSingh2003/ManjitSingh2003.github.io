@@ -102,18 +102,19 @@ Built an intelligent recommendation engine that combines **collaborative filteri
 
 
 ### 📄 Helmate AI: Retrieval-Augmented Generation (RAG) System  
-**Tech Stack:** Python, LangChain, GROQ AI, SBERT, ChromaDB  
+**Tech Stack:** Python, LangChain, GROQ AI, SBERT, ChromaDB, FAISS, Streamlit, PyPDF, dotenv, NumPy 
 
-Developed a **cost-efficient, open-source RAG pipeline** to accurately respond to user queries based on insurance policy documents, enhancing the accessibility and understanding of complex policy information.
+HelpMate AI is an advanced *Retrieval-Augmented Generation (RAG)* system built to simplify how users search, interpret, and compare complex **insurance policy documents**. The system enables natural language queries and returns **precise, context-aware answers** directly extracted from over **200 real policy PDFs**.
 
-- **Problem Addressed:** Navigating large volumes of insurance documentation can be tedious for users looking for specific policy-related answers.  
+- **Problem Addressed:** Navigating lengthy insurance documents to find specific information is often tedious and time-consuming for customers and agents alike.
 - **Solution Overview:**  
-   - Implemented **semantic search** using SBERT embeddings to retrieve contextually relevant chunks.  
-   - Used **ChromaDB** as the vector store for efficient document retrieval.  
-   - Integrated **LangChain** to orchestrate the pipeline and **GROQ AI** as the LLM for generating natural, context-aware responses.  
-   - Optimized the workflow to ensure fast, accurate, and scalable information retrieval across diverse policy documents.  
-
-✅ **Impact:** Delivered a scalable and interpretable RAG system with improved query response accuracy—built entirely on open-source tools for maximum accessibility and zero API cost.
+   - Implemented **semantic retrieval** using **SBERT embeddings** for accurate context matching.
+   - Used **ChromaDB** as the vector store for fast and scalable document retrieval.
+   - Integrated **LangChain** to orchestrate the retrieval–generation pipeline and **GROQ AI** for human-like response generation.
+   - Optimized chunking, metadata handling, and text-splitting to enhance precision and maintain context.
+   - Deployed a **Streamlit web app** to provide an intuitive interface for users to query documents in real time.
+     
+✅ **Impact:** Delivered a **scalable, open-source, and cost-efficient RAG** solution that improves information accessibility and interpretability—enabling users to obtain accurate, natural language answers from complex insurance policies **without paid APIs**.
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ManjitSingh2003/Helpmate-AI-RAG)
 
