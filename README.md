@@ -115,7 +115,7 @@ Developed a **cost-efficient, open-source RAG pipeline** to accurately respond t
 
 ✅ **Impact:** Delivered a scalable and interpretable RAG system with improved query response accuracy—built entirely on open-source tools for maximum accessibility and zero API cost.
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ManjitSingh2003/Helmate-AI-RAG)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)]([https://github.com/ManjitSingh2003/Helmate-AI-RAG](https://github.com/ManjitSingh2003/Helpmate-AI-RAG.git))
 
 
 ### 🧾 Automatic Ticket Classification System  
