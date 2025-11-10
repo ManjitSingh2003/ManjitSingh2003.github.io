@@ -119,6 +119,24 @@ HelpMate AI is an advanced *Retrieval-Augmented Generation (RAG)* system built t
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ManjitSingh2003/Helpmate-AI-RAG)
 
 
+### 🧩 Customer Segmentation using Clustering  
+**Tech Stack:** Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Plotly, Streamlit, Pytest, Docker, GitHub Actions
+
+An end-to-end **unsupervised machine learning pipeline** designed to segment retail customers based on purchasing patterns. The system enables data-driven marketing strategies by uncovering behavioral clusters and delivering actionable insights through an interactive dashboard.
+
+- **Objective:** Retail businesses often struggle to identify which customers are most valuable or at risk due to unstructured transactional data, leading to inefficient marketing and retention strategies.
+- **Approach:**  
+   - Engineered **RFM (Recency, Frequency, Monetary)** features from raw transactional data to quantify customer value.
+   - Applied **K-Means** and **Hierarchical Clustering** to group customers with similar behaviors.
+   - Validated cluster quality using **Elbow Method** and **Silhouette Scores** to ensure meaningful segmentation.
+   - Built an interactive **Streamlit dashboard** to visualize segments, view metrics, and export labeled customer lists.
+   - Containerized the solution using **Docker** and **automated testing/deployment** via **Pytest** and GitHub Actions.
+
+✅ **Impact:** Delivered a production-ready segmentation system that enables targeted marketing, higher retention, and data-driven business decisions. The project demonstrates the integration of machine learning, visualization, and deployment workflows into a single, scalable analytics product.
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ManjitSingh2003/customer-segmentation-clustering-project)
+
+
 ### 🧾 Automatic Ticket Classification System  
 **Tech Stack:** Python, Scikit-learn, NLTK, Pandas  
 
@@ -134,23 +152,6 @@ Built an intelligent **automated ticket classification** system to streamline cu
 ✅ **Impact:** Automated classification significantly reduced manual workload, improved response speed, and laid a foundation for intelligent support systems.
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ManjitSingh2003/automatic_ticket_classification)
-
-
-### 🧩 Customer Segmentation using Clustering  
-**Tech Stack:** Python, Scikit-learn, Pandas, Seaborn, Matplotlib  
-
-Implemented a robust **unsupervised learning pipeline** to segment customers based on purchasing behavior for targeted marketing and business strategy enhancement.
-
-- **Objective:** Helped businesses uncover meaningful customer groups by analyzing transaction data and identifying key behavioral patterns.  
-- **Approach:**  
-   - Performed **data cleaning, feature engineering**, and **RFM analysis** (Recency, Frequency, Monetary) to derive meaningful metrics.  
-   - Applied **K-Means and Hierarchical Clustering** to segment customers and validate clusters using silhouette scores and dendrograms.  
-   - Visualized insights through **heatmaps, cluster plots, and bar charts** to help decision-makers understand segment characteristics.  
-   - Delivered actionable recommendations for tailored engagement, retention strategies, and personalized offers.
-
-✅ **Impact:** Enabled data-driven customer targeting and improved marketing ROI through insight-backed segmentation.
-
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ManjitSingh2003/customer-segmentation-clustering)
 
 
 ### 🎬 RSVP Movies Analysis – SQL-Based Data Exploration  
