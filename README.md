@@ -85,18 +85,19 @@ At Samhita, I support data-driven decision-making for financial inclusion projec
 
 
 ### 🛍️ Sentiment-Based Product Recommendation System  
-**Tech Stack:** Python, Flask, Scikit-learn, Pandas, NLTK, HTML/CSS  
+**Tech Stack:** Python, Flask, Scikit-learn, Numpy, Pandas, NLTK/SpaCy, HTML/CSS, Collaborative Filtering, Joblib, Git/GitHub
 
-Built an intelligent recommendation engine that combines **collaborative filtering** with **sentiment analysis** to generate more accurate and personalized product suggestions.  
+An intelligent **hybrid recommendation engine** that fuses **collaborative filtering** with **sentiment analysis** to deliver personalized and emotionally aware product recommendations. The system interprets user opinions from product reviews to refine recommendation accuracy beyond conventional approaches.
 
-- **Problem Addressed:** Traditional recommender systems often overlook the sentiment expressed in user reviews, which can lead to irrelevant recommendations.  
+- **Problem Addressed:** Traditional recommendation systems rely solely on numerical ratings and overlook the emotional tone within user reviews — resulting in suggestions that often mismatch actual user sentiment.  
 - **Solution Overview:**  
-   - Performed **text preprocessing** using NLTK and extracted features using **TF-IDF vectorization**.  
-   - Applied **Logistic Regression** to classify the sentiment (positive/negative) of product reviews.  
-   - Enhanced collaborative filtering by integrating sentiment scores to refine recommendation relevance.  
-   - Developed a **Flask-based web app** to interactively serve recommendations based on user input.  
+   - Processed review text using **NLTK** for tokenization, stopword removal, and lemmatization.
+   - Transformed textual data with **TF-IDF vectorization** to capture key features.
+   - Trained a **XGBoost** classifier to predict sentiment polarity (positive/negative).
+   - Enhanced **collaborative filtering** by integrating sentiment scores to improve recommendation precision.
+   - Deployed a **Flask web application** that interactively serves product recommendations based on both ratings and sentiment context.
 
-✅ **Impact:** Improved recommendation precision by aligning suggestions with user sentiment, resulting in a more engaging and tailored user experience.
+✅ **Impact:** Delivered a **sentiment-aware recommender system** that significantly improves recommendation relevance and user satisfaction by aligning suggestions with customer opinions — creating a more personalized and engaging shopping experience.
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ManjitSingh2003/sentiment-based-recommendation-system)
 
