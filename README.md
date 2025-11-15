@@ -36,7 +36,7 @@ Data Engineering & Automation (ONDC – 80%)
    - Designed improved monitoring dashboards and analytics views, replacing fragmented reporting systems with a unified, high-signal dashboard for project leadership.
    - Built weekly data quality checks, anomaly detection scripts, and trend-tracking workflows to ensure consistent and accurate reporting of all ONDC program metrics.
    - Collaborated with IPs, engineering teams, and program leads to define required data structures, fix gaps in historical datasets, and standardize reporting formats.
-   - Guided a 6-member team in data validation, seller mapping, and catalog-level quality improvements using automated scripts and standardized data processes.
+   - Led a 6-member team in data validation, seller mapping, and catalog-level quality improvements using automated scripts and standardized data processes.
 
 Analytics, NLP & Automation (Access to Finance – 20%)
    
