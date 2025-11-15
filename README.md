@@ -31,7 +31,7 @@
 
 Data Engineering & Automation (ONDC – 80%)
    
-   - Engineered multiple Python-based automation scripts to fix large-scale data mapping, cleaning, and participant–seller linkage inconsistencies across 10k+ sellers and 15k+ participants.
+   - Engineered multiple Python-based automation scripts to fix large-scale data mapping, cleaning, and participant–seller linkage inconsistencies across 25k+ sellers and 43k+ participants.
    - Led data consolidation efforts by creating unified pipelines to merge onboarding, catalog, and performance datasets from multiple platforms into a single source of truth.
    - Designed improved monitoring dashboards and analytics views, replacing fragmented reporting systems with a unified, high-signal dashboard for project leadership.
    - Built weekly data quality checks, anomaly detection scripts, and trend-tracking workflows to ensure consistent and accurate reporting of all ONDC program metrics.
