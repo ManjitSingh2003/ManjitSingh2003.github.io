@@ -29,33 +29,25 @@
 **Associate - Data Analyst**  
 **Samhita | Remote | Nov 2024 – Present** 
 
-At Samhita, I support data-driven decision-making for financial inclusion projects by managing datasets, uncovering insights, and automating processes across multiple programs. I work closely with program, tech, and MEL teams to ensure data flows efficiently from collection to actionable insight.
+Data Engineering & Automation (ONDC – 80%)
+   
+   - Engineered multiple Python-based automation scripts to fix large-scale data mapping, cleaning, and participant–seller linkage inconsistencies across 10k+ sellers and 15k+ participants.
+   - Led data consolidation efforts by creating unified pipelines to merge onboarding, catalog, and performance datasets from multiple platforms into a single source of truth.
+   - Designed improved monitoring dashboards and analytics views, replacing fragmented reporting systems with a unified, high-signal dashboard for project leadership.
+   - Built weekly data quality checks, anomaly detection scripts, and trend-tracking workflows to ensure consistent and accurate reporting of all ONDC program metrics.
+   - Collaborated with IPs, engineering teams, and program leads to define required data structures, fix gaps in historical datasets, and standardize reporting formats.
+   - Guided a 6-member team in data validation, seller mapping, and catalog-level quality improvements using automated scripts and standardized data processes.
 
-• Key Responsibilities:
-
-🧹 Data Management & Reporting:
-   - Maintain and update datasets across Access to Finance initiatives including Pre-Credit Score (PCS), Returnable Grants, and Formal Loans.
-   - Consolidate repayment data from various sources and support data cleaning, validation, and standardization.
-     
-
-📊 Dashboarding & Visualization:
-   - Assist in building and maintaining dashboards for internal monitoring and external reporting.
-   - Support real-time updates and enhancements for evolving project needs.
-
-
-🔍 Data Analysis & Insight Generation:
-   - Conduct exploratory data analysis (EDA) to identify trends and anomalies.
-   - Extract, transform, and analyze data from SQL databases to inform strategic decisions.
-
-
-⚙️ Process Automation & GenAI Adoption:
-   - Develop automation scripts using Python, SQL, and VBA to streamline recurring data workflows.
-   - Contribute to identifying and piloting GenAI use cases to enhance team productivity.
-
-
-🤝 Cross-Team Collaboration:
-   - Coordinate with cross-functional teams to respond to data requests and support grant reports, donor updates, and tool development.
-   - Assist in the design of data collection formats and tracking templates for improved monitoring.
+Analytics, NLP & Automation (Access to Finance – 20%)
+   
+   - Developed Power BI dashboards, Excel-based MIS, and automated reporting pipelines to track disbursement, repayments, and participant-level program progress.
+   - Automated weekly MIS ingestion by transforming unstructured input files into structured program formats using Python + SQL.
+   - Created Python tools including:
+      - Automated master sheets merging disbursement + repayment + onboarding records.
+      - Hindi → English audio transcription pipeline for field recordings (Whisper-based).
+      - Location inference from pincodes for enhanced participant profiling.
+   - Supported the team in building the Returnable Grant (RG) dashboard, refactoring existing logic and enhancing visual/analytical components.
+   - Performed exploratory data analysis, anomaly detection, and trend identification across financial inclusion datasets to support program evaluation.
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
