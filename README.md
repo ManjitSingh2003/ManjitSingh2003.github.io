@@ -29,7 +29,7 @@
 **Associate - Data Analyst**  
 **Samhita | Remote | Nov 2024 – Present** 
 
-Data Engineering & Automation (ONDC – 80%)
+Data Analysis & Automation (ONDC – 80%)
    
    - Engineered multiple Python-based automation scripts to fix large-scale data mapping, cleaning, and participant–seller linkage inconsistencies across 25k+ sellers and 43k+ participants.
    - Led data consolidation efforts by creating unified pipelines to merge onboarding, catalog, and performance datasets from multiple platforms into a single source of truth.
